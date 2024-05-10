@@ -1,6 +1,8 @@
 # Aula 1 - [Imersão Inteligência Artificial 2ª Edição]
 Aula: Mergulhando no Gemini, a IA do Google. 
 
+---
+
 Introdução da aula:
 
 - Conhecer o Gemini, a IA do Google;
@@ -8,6 +10,8 @@ Introdução da aula:
 - Gerar tabelas, poemas, códigos pelo Gemini;
 - Conhecer o Google AI Studio;
 - Analisar imagens com o Gemini e o Google AI Studio.
+  
+---
 
 Desafios desta aula:
 
